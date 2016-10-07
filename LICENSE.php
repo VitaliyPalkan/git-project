@@ -2,3 +2,5 @@
 echo "Hello GIT!";
 echo "Hello GIT!";
 echo "Hello GIT!";
+
+echo "Hello GITHUB!";
